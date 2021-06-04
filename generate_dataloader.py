@@ -215,5 +215,5 @@ joblib.dump(
         'testing_loader':testing_loader,
         'graph':graph,
     },
-    'process_data/loader_mgcn.pt'
+    'process_data/dataloader.pt'
 )
